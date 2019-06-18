@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata
+    xmlns="http://maven.apache.org/METADATA/1.1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://maven.apache.org/METADATA/1.1.0 http://maven.apache.org/xsd/repository-metadata-1.1.0.xsd"
+    modelVersion="1.1.0">
+  <groupId>dexpatcher-repo.dexpatcher.dex2jar</groupId>
+  <artifactId>dex-tools</artifactId>
+  <versioning>
+    <latest>2.1-20171001-lanchon</latest>
+    <release>2.1-20171001-lanchon</release>
+    <versions>
+      <version>2.1-20170118-lanchon</version>
+      <version>2.1-20170802-lanchon</version>
+      <version>2.1-20171001-lanchon</version>
+    </versions>
+  </versioning>
+</metadata>

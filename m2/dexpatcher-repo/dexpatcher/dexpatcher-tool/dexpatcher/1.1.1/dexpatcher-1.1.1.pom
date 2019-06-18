@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project
+    xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>dexpatcher-repo.dexpatcher.dexpatcher-tool</groupId>
+  <artifactId>dexpatcher</artifactId>
+  <version>1.1.1</version>
+  <url>https://github.com/DexPatcher/dexpatcher-tool</url>
+  <organization>
+    <name>DexPatcher</name>
+    <url>https://dexpatcher.github.io/</url>
+  </organization>
+  <developers>
+    <developer>
+      <id>Lanchon</id>
+      <url>https://github.com/Lanchon</url>
+    </developer>
+  </developers>
+  <scm>
+    <url>https://github.com/DexPatcher/dexpatcher-tool</url>
+  </scm>
+</project>
