@@ -39,3 +39,7 @@ This Maven repository mirrors the artifacts released by ceratin projects via  th
 | [DexPatcher/dexpatcher-tool](https://github.com/DexPatcher/dexpatcher-tool) | `dexpatcher-repo.dexpatcher.dexpatcher-tool` |
 | | `:dexpatcher` | [view](https://dexpatcher.github.io/dexpatcher-repo/m2/dexpatcher-repo/dexpatcher/dexpatcher-tool/dexpatcher/maven-metadata.xml) | [browse](https://github.com/DexPatcher/dexpatcher-repo/tree/master/m2/dexpatcher-repo/dexpatcher/dexpatcher-tool/dexpatcher) |
 | | `:dexpatcher-annotation` | [view](https://dexpatcher.github.io/dexpatcher-repo/m2/dexpatcher-repo/dexpatcher/dexpatcher-tool/dexpatcher-annotation/maven-metadata.xml) | [browse](https://github.com/DexPatcher/dexpatcher-repo/tree/master/m2/dexpatcher-repo/dexpatcher/dexpatcher-tool/dexpatcher-annotation) |
+
+### Maintenance
+
+This repository is kept up to date by an instance of [dexpatcher-repo-updater](https://github.com/DexPatcher/dexpatcher-repo-updater).
