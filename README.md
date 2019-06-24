@@ -32,6 +32,8 @@ This Maven repository mirrors the artifacts released by ceratin projects via  th
 | - | - | - | - |
 | [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) | `dexpatcher-repo.ibotpeaches.apktool` |
 | | `:apktool` | [view](https://dexpatcher.github.io/dexpatcher-repo/m2/dexpatcher-repo/ibotpeaches/apktool/apktool/maven-metadata.xml) | [browse](https://github.com/DexPatcher/dexpatcher-repo/tree/master/m2/dexpatcher-repo/ibotpeaches/apktool/apktool) |
+| | `:apktool-aapt` | [view](https://dexpatcher.github.io/dexpatcher-repo/m2/dexpatcher-repo/ibotpeaches/apktool/apktool-aapt/maven-metadata.xml) | [browse](https://github.com/DexPatcher/dexpatcher-repo/tree/master/m2/dexpatcher-repo/ibotpeaches/apktool/apktool-aapt) |
+| | `:apktool-aapt2` | [view](https://dexpatcher.github.io/dexpatcher-repo/m2/dexpatcher-repo/ibotpeaches/apktool/apktool-aapt2/maven-metadata.xml) | [browse](https://github.com/DexPatcher/dexpatcher-repo/tree/master/m2/dexpatcher-repo/ibotpeaches/apktool/apktool-aapt2) |
 | [DexPatcher/dex2jar](https://github.com/DexPatcher/dex2jar) | `dexpatcher-repo.dexpatcher.dex2jar` |
 | | `:dex-tools` | [view](https://dexpatcher.github.io/dexpatcher-repo/m2/dexpatcher-repo/dexpatcher/dex2jar/dex-tools/maven-metadata.xml) | [browse](https://github.com/DexPatcher/dexpatcher-repo/tree/master/m2/dexpatcher-repo/dexpatcher/dex2jar/dex-tools) |
 | [DexPatcher/dexpatcher-tool](https://github.com/DexPatcher/dexpatcher-tool) | `dexpatcher-repo.dexpatcher.dexpatcher-tool` |
