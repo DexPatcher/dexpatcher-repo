@@ -5,8 +5,8 @@
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>dexpatcher-repo.dexpatcher.dexpatcher-tool</groupId>
-  <artifactId>dexpatcher-annotation</artifactId>
-  <version>1.8.0-alpha3</version>
+  <artifactId>dexpatcher</artifactId>
+  <version>1.8.0-alpha4</version>
   <url>https://github.com/DexPatcher/dexpatcher-tool</url>
   <organization>
     <name>DexPatcher</name>
