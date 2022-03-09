@@ -10,8 +10,8 @@
     <latest>2.1-20190905-lanchon</latest>
     <release>2.1-20190905-lanchon</release>
     <versions>
-      <version>2.1-20170118-lanchon</version>
       <version>2.1-20170802-lanchon</version>
+      <version>2.1-20170118-lanchon</version>
       <version>2.1-20171001-lanchon</version>
       <version>2.1-20190905-lanchon</version>
     </versions>
